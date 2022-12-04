@@ -15,4 +15,4 @@ Problem Statement
 - To help you make the decision, you have a dataset of test results on past microchips, from which you can build a logistic regression model.
 
 #### Task: 
-* Implement regularized logistic regression to predict whether microchips from a fabrication plant passes quality assurance (QA). During QA, each microchip goes through various tests to ensure it is functioning correctly. The model should be able to help determine whether microchips should be accepted or rejected.
+* Implement regularized logistic regression to predict whether microchips from a fabrication plant passes quality assurance (QA). The model should help determine whether microchips should be accepted or rejected.
